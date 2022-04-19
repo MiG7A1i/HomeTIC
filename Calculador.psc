@@ -1,5 +1,6 @@
 Algoritmo Calculador
 	Escribir "Aqui lo edite de la pagina github"
+	Escribir "editado a traves de psint"
 	Escribir "Introduzca un numero"
 	Leer numero_1
 	Escribir "Introduzca un numero"
