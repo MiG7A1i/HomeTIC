@@ -1,4 +1,5 @@
 Algoritmo Calculador
+	Escribir "Aqui lo edite de la pagina github"
 	Escribir "Introduzca un numero"
 	Leer numero_1
 	Escribir "Introduzca un numero"
